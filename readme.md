@@ -16,7 +16,11 @@ For if you want to form groups of 3 members from a list of 18 names
 
 4 Create a new ruby file in the same folder.
 
-5 Open the file in any editor and `require_relative autodraft`
+5 Open the file in any editor and add to the beginning of the file. 
+
+```
+require_relative autodraft
+```
 
 6 Create an instance of the GroupCreator class in the Teampairing module
 
@@ -25,7 +29,9 @@ new_task = TeamPairing::GroupCreator.new
 ```
 7 Call the form teams method on the new_task variable and pass in the filename and the numbers of members per team.
 
-`new_task.form_teams('your_filename.txt', 3)`
+```
+new_task.form_teams('your_filename.txt', 3)
+```
 
 5 Run the file you created. 
 
