@@ -1,18 +1,19 @@
 # Auto Draft
 
-Auto draft is a simple program that creates teams from a list of items. You can use this program to form a group any number from a list of names. 
+Auto draft is a simple program that creates teams from a list of items. You can use this program to form a group of any number from a list of names. 
 
-For example, it can be used if you want to form groups of 3 members from a list of 18 names
+For example, it can be used if you want to form groups of 3 members from a list of 19 names
 
 ## How to use it.
 
-1 Install the auto_draft gem by running
+1 Install the auto_draft gem by running 
 
-[![Gem Version](https://badge.fury.io/rb/auto_draft.svg)](https://badge.fury.io/rb/auto_draft)
+
 ```
 gem install auto_draft  
-```
 
+```
+[![Gem Version](https://badge.fury.io/rb/auto_draft.svg)](https://badge.fury.io/rb/auto_draft)
 
 2 Create a list of items, store in a file and put in the folder. 
 
