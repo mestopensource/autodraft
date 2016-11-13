@@ -29,7 +29,7 @@ Third Item
 5 Open the file in any editor and add to the beginning of the file. 
 
 ```ruby
-require 'autodraft'
+require 'auto_draft'
 ```
 
 6 Create an instance of the GroupCreator class in the Teampairing module
