@@ -53,4 +53,4 @@ Sublime Text = Windows = `Ctrl B` Mac = `Cmd B`
 
 Pull requests for bug fixes and new features are eagerly accepted.
 
-#### This gem was written by students of MEST(Meltwater entreprenueral school of technology)
+#### This gem was written by students of MEST(Meltwater Entreprenueral School of Technology)
