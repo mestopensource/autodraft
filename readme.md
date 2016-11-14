@@ -1,8 +1,10 @@
 # auto_draft    [![Gem Version](https://badge.fury.io/rb/auto_draft.svg)](https://badge.fury.io/rb/auto_draft)
 
-Auto draft is a simple program that creates teams from a list of items. You can use this program to form a group of any number from a list of names. 
+Auto draft is a simple ruby gem that creates teams from a list of items. 
+You can use this program to form a group of any number from a list of names.
 
 For example, it can be used if you want to form groups of 3 members from a list of 19 names
+
 
 ## How to use it.
 
@@ -50,3 +52,5 @@ Sublime Text = Windows = `Ctrl B` Mac = `Cmd B`
 ### Contributing to AutoDraft
 
 Pull requests for bug fixes and new features are eagerly accepted.
+
+#### This gem was written by students of MEST(Meltwater entreprenueral school of technology)
