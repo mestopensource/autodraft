@@ -1,4 +1,4 @@
-# Auto Draft
+# Auto Draft  [![Gem Version](https://badge.fury.io/rb/auto_draft.svg)](https://badge.fury.io/rb/auto_draft)
 
 Auto draft is a simple program that creates teams from a list of items. You can use this program to form a group of any number from a list of names. 
 
