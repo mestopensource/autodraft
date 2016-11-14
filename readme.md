@@ -9,8 +9,8 @@ For example, it can be used if you want to form groups of 3 members from a list 
 1 Install the auto_draft gem by running 
 
 
-```ruby
-gem install auto_draft   
+```
+$ gem install auto_draft   
 ```
 [![Gem Version](https://badge.fury.io/rb/auto_draft.svg)](https://badge.fury.io/rb/auto_draft)
 
